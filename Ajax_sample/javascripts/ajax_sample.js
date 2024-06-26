@@ -36,6 +36,3 @@ function updateContent() {
 button.addEventListener('click', changeVideo);
 
 window.onload = changeVideo;
-
-    window.onload = changeVideo;
-}
